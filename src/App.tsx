@@ -8,8 +8,8 @@ import SignUp from './pages/SignUp';
 const App: React.FC = () => {
   return (
     <>
-      <SignUp />
-      {/* <SignIn /> */}
+      {/* <SignUp /> */}
+      <SignIn />
       <GlobalStyle />
     </>
   );
